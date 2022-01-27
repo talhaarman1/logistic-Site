@@ -221,114 +221,141 @@
                     </div>
                 </div>
             </div>
+			<div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-cat land-transport text-center mb-50">
+                        <div class="cat-icon">
+                            <span class="flaticon-shipped"></span>
+                        </div>
+                        <div class="cat-cap">
+                            <h5><a href="services.html">Land Transport</a></h5>
+                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-cat ship-transport text-center mb-50">
+                        <div class="cat-icon">
+                            <span class="flaticon-ship"></span>
+                        </div>
+                        <div class="cat-cap">
+                            <h5><a href="services.html">Ship Transport</a></h5>
+                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-cat air-transport text-center mb-50">
+                        <div class="cat-icon">
+                            <span class="flaticon-plane"></span>
+                        </div>
+                        <div class="cat-cap">
+                            <h5><a href="services.html">Air Transport</a></h5>
+                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat warehouse text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-shipped"></span>
+                            <span ><img src="assets/img/icon/warehouse.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Land Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">WAREHOUSING</a></h5>
+                            <p>Welkin Logistics can provide total logistics support for your products using its warehouse and distribution center conveniently located</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat customs-clearance  text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-ship"></span>
+                            <span ><img src="assets/img/icon/custom-clearance.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Ship Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">CUSTOMS CLEARANCE</a></h5>
+                            <p>Welkin Logistics offers customs clearance services both for imports, as well as exports at all major international ports, airports, and ICDs.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat port-handling text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-plane"></span>
+                             <span ><img src="assets/img/icon/port Handling.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Air Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">PORT HANDLING</a></h5>
+                            <p>With our fast and reliable scheduled container services, we can provide your Cargo with excellent connections to ports around the world.</p>
                         </div>
                     </div>
                 </div>
 				
             </div>
-			         <div class="row">
+			<div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat cargo-insurance text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-shipped"></span>
+                            <span ><img src="assets/img/icon/delivery-insurance.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Land Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">CARGO INSURANCE</a></h5>
+                            <p> Cargo Insurance covers loss and/or damage of cargo while it is in transit between the points of origin and final destination.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat break-bulk text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-ship"></span>
+                            <span ><img src="assets/img/icon/Break Bulk.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Ship Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">Break-Bulk Cargo</a></h5>
+                            <p>Cargo Break-bulk transportation involves moving large cargo into smaller units, such as pallets, barrels, drums, boxes, or bags..</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
+                    <div class="single-cat lcl-consolidation text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-plane"></span>
+                             <span ><img src="assets/img/icon/LCL Consulation.png" alt=""></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Air Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
-                        </div>
-                    </div>
-                </div>
-				
-            </div>
-			         <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
-                        <div class="cat-icon">
-                            <span class="flaticon-shipped"></span>
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Land Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
-                        <div class="cat-icon">
-                            <span class="flaticon-ship"></span>
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Ship Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-cat text-center mb-50">
-                        <div class="cat-icon">
-                            <span class="flaticon-plane"></span>
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Air Transport</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="services.html">LCL Consolidation</a></h5>
+                            <p>We at Welkin Logistics, a well-known lcl logistics provide an import consolidation program for those consignees with multiple suppliers.</p>
                         </div>
                     </div>
                 </div>
 				
-            </div>
+            </div>  
+			<div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-cat local-transport text-center mb-50">
+                        <div class="cat-icon">
+                            <span ><img src="assets/img/icon/Local Transport.png" alt=""></span>
+                        </div>
+                        <div class="cat-cap">
+                            <h5><a href="services.html">Local Transportation</a></h5>
+                            <p> New fangled Logistics Pvt. Ltd is a full-service local carrier, consolidator, and freight broker.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-cat packing text-center mb-50">
+                        <div class="cat-icon">
+                            <span ><img src="assets/img/icon/Packing.png" alt=""></span>
+                        </div>
+                        <div class="cat-cap">
+                            <h5><a href="services.html">General Packing & Pallet</a></h5>
+                            <p>(loads/goods) must reach its consumer. To make this possible we have to use transport and to make the safe transport</p>
+                        </div>
+                    </div>
+                </div>
+                
+				
+            </div>  
+			       
         </div>
 		       
     </div>
@@ -537,8 +564,8 @@
                         <div class="team-img">
                             <img src="assets/img/gallery/team3.jpeg" alt="">
                             <div class="team-caption">
-                                <h3><a href="#">Mancherwan Kolin</a></h3>
-                                <p>Health agent</p>
+                                <h3><a href="#">MUHAMMAD FAHAD KHAN</a></h3>
+                                <p>DIRECTOR FINANCE & HR</p>
                                 <!-- Blog Social -->
                                 <div class="team-social">
                                     <ul>
@@ -718,8 +745,9 @@
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4">
-                            <span class="contact-number f-right">+ 1 212-683-9756</span>
-                            <span class="contact-number f-right">+ 1 212-683-9756</span>
+                            <span class="contact-number f-right">055-3734242</span>
+                            <span class="contact-number f-right">055-3734246</span>
+                            <span class="contact-number f-right">055-3734246</span>
                         </div>
                     </div>
                 </div>
@@ -730,7 +758,7 @@
                             <div class="footer-tittle">
                                 <h4>COMPANY</h4>
                                 <ul>
-                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="about.html">About Us</a></li>
                                     <li><a href="#">Company</a></li>
                                     
                                 </ul>

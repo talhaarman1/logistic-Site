@@ -2621,12 +2621,14 @@ hero-btn{
         padding:50px 22px
     }
 }
-.categories-area .single-cat::before{
+.categories-area .warehouse::before{
     position:absolute;
     content:"";
     width:100%;
     height:0;
-    background:#af8f63;
+	background:url(../img/service/WAREHOUSING-DISTRIBUTION.jpg) no-repeat center center/cover !important;
+
+   /* background:#af8f63; */
     transition:.6s;
     bottom:0;
     left:0;
@@ -2688,6 +2690,8 @@ hero-btn{
 }
 .categories-area .single-cat:hover{
     border:1px solid transparent
+	
+	
 }
 .categories-area .single-cat:hover::before{
     height:100%
@@ -5703,4 +5707,158 @@ a#submit {
     border: none;
     width: 100%;
     padding: 20px;
+}
+
+
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+/* for customs-clearance */
+.categories-area .customs-clearance::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/customs-clearance.webp) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Port Handling */
+.categories-area .port-handling::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/port-handling.png) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Break Bulk */
+.categories-area .break-bulk::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/break-bulk.jpg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+
+/* for local transport */
+.categories-area .local-transport::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/local-transport.jpg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Packing and Pallet */
+.categories-area .packing::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/pallet-packaging.jpg) no-repeat center center/cover !important;
+	transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for LCL Consolidation */
+.categories-area .lcl-consolidation::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/pallet-packaging.jpg) no-repeat center center/cover !important;
+	transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Land Transport */
+.categories-area .land-transport::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/LAND-FREIGHT.jpg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Air Transport */
+.categories-area .air-transport::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/AIR-FREIGHT.jpg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+/* for Ship Transport */
+.categories-area .ship-transport::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/SEA-FREIGHT.jpg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
+}
+
+ 
+  /* for Cargo Insurance */
+ .categories-area .cargo-insurance::before{
+    position:absolute;
+    content:"";
+    width:100%;
+    height:0;
+	background:url(../img/service/cargo-insurance.jpeg) no-repeat center center/cover !important;
+    transition:.6s;
+    bottom:0;
+    left:0;
+    z-index:-1;
+    border-radius:6px
 }
