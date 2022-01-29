@@ -2696,9 +2696,14 @@ hero-btn{
 .categories-area .single-cat:hover::before{
     height:100%
 }
+
+.categories-area .single-cat:hover img{
+filter: brightness(0) invert(1)
+}
 .categories-area .single-cat:hover .cat-icon span{
     color:#fff
 }
+
 .categories-area .single-cat:hover .cat-cap h5{
     color:#fff
 }
@@ -2708,6 +2713,7 @@ hero-btn{
 .categories-area .single-cat:hover .cat-cap a{
     color:#fff
 }
+
 .contact-form-area .contact-form-wrapper{
     background:#f5f5f5;
     padding:80px;
@@ -5727,7 +5733,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/customs-clearance.webp) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/customs-clearance.webp) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5741,7 +5747,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/port-handling.png) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/port-handling.png) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5755,7 +5761,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/break-bulk.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/break-bulk.jpg) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5770,7 +5776,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/local-transport.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/local-transport.jpg) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5784,7 +5790,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/pallet-packaging.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/pallet-packaging.jpg) no-repeat center center/cover !important;
 	transition:.6s;
     bottom:0;
     left:0;
@@ -5798,7 +5804,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/pallet-packaging.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/LCL.webp) no-repeat center center/cover !important;
 	transition:.6s;
     bottom:0;
     left:0;
@@ -5812,7 +5818,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/LAND-FREIGHT.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/LAND-FREIGHT.jpg) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5826,7 +5832,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/AIR-FREIGHT.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/AIR-FREIGHT.jpg) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5840,7 +5846,7 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/SEA-FREIGHT.jpg) no-repeat center center/cover !important;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)), url(../img/service/SEA-FREIGHT.jpg) no-repeat center center/cover !important;
     transition:.6s;
     bottom:0;
     left:0;
@@ -5855,10 +5861,12 @@ a#submit {
     content:"";
     width:100%;
     height:0;
-	background:url(../img/service/cargo-insurance.jpeg) no-repeat center center/cover !important;
-    transition:.6s;
+	background:linear-gradient(to top, rgba(175,143,99,0.5), rgba(175,143,99,0.6)),url(../img/service/cargo-insurance.jpeg)   no-repeat center center/cover ;
+	transition:.6s;
     bottom:0;
     left:0;
+	
     z-index:-1;
     border-radius:6px
 }
+
